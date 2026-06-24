@@ -18,3 +18,4 @@ YOLO
 Qwen
 Matplotlib
 Google Colab
+<img width="1045" height="697" alt="TaticaDoJogo" src="https://github.com/user-attachments/assets/01cd25d4-9efb-4968-97b9-12d3ee544682" />
